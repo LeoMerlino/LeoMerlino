@@ -2,7 +2,9 @@
 
 Your average **fish** scripter 🐟
 
-Check this cool thing out: [merll002/clipboard-file-transfer](https://github.com/merll002/clipboard-file-transfer)
+Check this cool thing out: [LeoMerlino/clipboard-file-transfer](https://github.com/LeoMerlino/clipboard-file-transfer)
+
+And these lovely scripts: [LeoMerlino/bash-scripts](https://github.com/LeoMerlino/bash-scripts)
 
 No **AI slop** found here btw
 
