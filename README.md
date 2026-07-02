@@ -15,7 +15,7 @@ I also love **self-hosting** things...
 
 Things I self-host:
 * Nextcloud
-* copyparty
+* [copyparty](https://guestshare.lcm.quest/)
 * Vaultwarden
 * Grafana dashboard (caddy, docker (via cadvisor), navidrome and nextcloud metrics with prometheus)
 * MySpeed network speed analysis
