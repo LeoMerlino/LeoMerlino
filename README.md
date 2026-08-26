@@ -37,3 +37,10 @@ Things I self-host (almost all on Docker):
 * More to come...
 
 `EOF`
+
+---
+<p align="center">
+  <a href="https://notbyai.fyi">
+    <img src="https://blog.lcm.quest/images/notai-black.svg" alt="Developed by a Human" height="50">
+  </a>
+</p>
