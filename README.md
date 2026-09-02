@@ -6,7 +6,7 @@ Check this cool thing out: [LeoMerlino/clipboard-file-transfer](https://github.c
 
 And these lovely scripts (includes awesome tmux tiling parallelising thing): [LeoMerlino/bash-scripts](https://github.com/LeoMerlino/bash-scripts)
 
-Blog: [blog.lcm.quest](https://blog.lcm.quest/)
+Blog: [b.lcm.lat](https://b.lcm.lat/)
 
 My fish config (have a look around, it's cool): https://github.com/LeoMerlino/fish-config 
 
@@ -22,10 +22,10 @@ Things I self-host (almost all on Docker):
 * Custom Alpine QEMU VM running Deluge WebUI and VPN
 * Custom isolated Docker container running SSH server for SFTP access
 * Nextcloud
-* [Blog site](https://blog.lcm.quest/)
+* Blog
 * Wireguard
 * Vaultwarden
-* [copyparty file share](https://guestshare.lcm.quest/)
+* copyparty file share
 * MySpeed network speed analysis
 * Immich photo library
 * Pi-hole
