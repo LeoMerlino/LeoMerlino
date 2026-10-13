@@ -19,11 +19,12 @@ I also love **self-hosting** things...
 
 Things I self-host (almost all on Docker):
 * Grafana dashboard (Caddy, Docker (via cAdvisor), DIY IoT CO2/hum/temp sensor, Navidrome and Nextcloud metrics all via Prometheus)
+* Stalwart email
 * Custom Alpine QEMU VM running Deluge WebUI and VPN
 * Custom isolated Docker container running SSH server for SFTP access
 * Nextcloud
 * Blog
-* Wireguard
+* WireGuard
 * Vaultwarden
 * copyparty file share
 * MySpeed network speed analysis
